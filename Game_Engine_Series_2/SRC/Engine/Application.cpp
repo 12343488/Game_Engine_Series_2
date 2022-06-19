@@ -12,6 +12,7 @@ namespace Engine
 
 	void Application::Run()
 	{
+		printf("something\n");
 		while (true);
 	}
 }
