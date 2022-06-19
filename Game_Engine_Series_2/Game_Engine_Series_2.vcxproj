@@ -84,6 +84,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SRC\Engine\algum_arquivo_teste.cpp" />
     <ClCompile Include="SRC\Engine\Application.cpp" />
     <ClCompile Include="SRC\Engine\Core.h" />
   </ItemGroup>

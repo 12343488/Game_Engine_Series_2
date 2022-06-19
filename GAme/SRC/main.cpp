@@ -5,7 +5,7 @@ class Game : public Engine::Application
 public:
 	Game()
 	{
-
+		
 	}
 
 	~Game()
@@ -13,6 +13,7 @@ public:
 
 	}
 };
+
 
 Engine::Application* Engine::CreateApplication()
 {
