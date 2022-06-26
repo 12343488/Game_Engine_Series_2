@@ -60,7 +60,7 @@
       <PreprocessorDefinitions>ENG_PLATFORM_WINDOWS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpplatest</LanguageStandard>
-      <AdditionalIncludeDirectories>$(SolutionDir)Game_Engine_Series_2\SRC; $(SolutionDir)Game_Engine_Series_2\Vendor\SPDLOG</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Game_Engine_Series_2\SRC;$(SolutionDir)Game_Engine_Series_2\Vendor\SPDLOG\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -75,7 +75,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>ENG_PLATFORM_WINDOWS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)Game_Engine_Series_2\SRC; $(SolutionDir)Game_Engine_Series_2\Vendor\SPDLOG</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Game_Engine_Series_2\SRC;$(SolutionDir)Game_Engine_Series_2\Vendor\SPDLOG\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
